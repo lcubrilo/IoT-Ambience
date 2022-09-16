@@ -1,0 +1,9 @@
+[submodule "IoT-Ambience-DataVisualizer"]
+	path = IoT-Ambience-DataVisualizer
+	url = https://github.com/lcubrilo/IoT-Ambience-DataVisualizer
+[submodule "IoT-Ambience-Firmware"]
+	path = IoT-Ambience-Firmware
+	url = https://github.com/lcubrilo/IoT-Ambience-Firmware
+[submodule "IoT-Ambience-CloudClient"]
+	path = IoT-Ambience-CloudClient
+	url = https://github.com/lcubrilo/IoT-Ambience-CloudClient
